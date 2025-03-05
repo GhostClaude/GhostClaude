@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Charlie - he/they - United States
+English/Francais/Deutsch/Nederlands
+Theatre/service industry person "on sabbatical". Learning to code backwards from Scala back to C.
