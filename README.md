@@ -1,4 +1,4 @@
-## Hi there 👋
+## Working...
 
 <!--
 **GhostClaude/GhostClaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Charlie - he/they - United States
-English/Francais/Deutsch/Nederlands
+**Charlie** - *he/they* - ~~United States~~
+English:uk:/Francais:fr:/Deutsch🇩🇪/Nederlands:netherlands:
 Theatre/service industry person "on sabbatical". Learning to code backwards from Scala back to C.
