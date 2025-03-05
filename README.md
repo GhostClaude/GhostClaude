@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Charlie** - *he/they* - ~~United States~~
-English:uk:/Francais:fr:/Deutsch🇩🇪/Nederlands:netherlands:
+**Charlie** - *he/they* - ~~United States~~  
+English🇬🇧:/Francais🇫🇷:/Deutsch🇩🇪/Nederlands🇳🇱:  
 Theatre/service industry person "on sabbatical". Learning to code backwards from Scala back to C.
